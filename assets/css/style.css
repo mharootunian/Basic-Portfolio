@@ -12,6 +12,7 @@
     float: left;
     height: 100%;
     margin: 0px 0px 0px 10%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 .nav-links {
@@ -51,6 +52,20 @@ a {
 
 }
 
+.form-class {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin: 0 2.5%;
+    line-height: 150%;
+}
+
+.submit-button {
+    border: 0;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 10px 20px;
+}
+
 h2 {
     color: #4aaaa5;
     position: relative;
@@ -80,8 +95,9 @@ article {
     border-color: #dddddd;
     border-width: 1px;
     border-style: solid;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
 
 body {
