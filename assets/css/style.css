@@ -70,6 +70,8 @@ h2 {
     color: #4aaaa5;
     position: relative;
     margin-left: 2.5%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
 }
 
 header {
@@ -105,4 +107,20 @@ body {
     top: 0px;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
+}
+
+/* Portfolio exclusive styles */
+.portfolio-entry {
+    margin: 2.5% 0 2.5% 2.5%;
+    float:left;     
+}
+.portfolio-entry-text {
+    position: relative;
+    bottom: 50px;
+    left: 0px;
+    padding: 10px;
+    text-align: center;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
 }
